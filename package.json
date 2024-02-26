@@ -1,0 +1,33 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "test backend developer : membuat Rest API menggunakan Node.js dan Express.js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husainrizaldy/be-dev-rest-api.git"
+  },
+  "keywords": [
+    "Rest",
+    "API",
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "husain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/husainrizaldy/be-dev-rest-api/issues"
+  },
+  "homepage": "https://github.com/husainrizaldy/be-dev-rest-api#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
