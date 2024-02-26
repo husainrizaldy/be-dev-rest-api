@@ -143,4 +143,4 @@ Proyek ini dibangun menggunakan Node.js, Express.js, dan MySQL. Berikut adalah l
 
 1. **Menambahkan Endpoint Baru**: Untuk menambahkan endpoint baru, buka file `routes/v1/employeeRoutes.js` dan tambahkan rute baru sesuai kebutuhan. Kemudian, buka `controllers/employeeController.js` untuk menambahkan logika pengendali untuk endpoint tersebut.
 
-2. **Dokumentasi**: Jangan lupa untuk mencatat endpoint baru di dalam [Dokumentasi Endpoint](#endpoint) dan [Dokumentasi Postman](https://documenter.getpostman.com/view/33200646/2sA2rDxLyZ).
+2. **Dokumentasi**: Jangan lupa untuk mencatat endpoint baru di dalam [Dokumentasi Postman](https://documenter.getpostman.com/view/33200646/2sA2rDxLyZ).
